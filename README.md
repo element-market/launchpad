@@ -13,7 +13,7 @@
   </td></tr>
 
   <tr><td>Goerli</td><td>
-  <a href="https://etherscan.io/address/0x8873e78a66d906959a49527868010ee7ffc01d12">0x8873E78A66D906959a49527868010ee7ffc01d12</a>
+  <a href="https://goerli.etherscan.io/address/0x8873e78a66d906959a49527868010ee7ffc01d12">0x8873E78A66D906959a49527868010ee7ffc01d12</a>
   </td></tr>
 
   </table>
