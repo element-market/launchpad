@@ -1,7 +1,7 @@
 # Launchpad Api Doc
 
 
-You need implement one of the following method, allowing our launchpad contract to mint ERC721 to the user address.
+You need implement one of the following methods, allowing our launchpad contract to mint ERC721 to the user address.
 
 
 ```solidity
