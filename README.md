@@ -7,8 +7,8 @@ You need implement one of the following methods, allowing our launchpad contract
 ```solidity
 /// @dev Mint an erc721 to the user address.
 /// @param to The user address.
-/// @Note The method name can be changed to another, but the parameters cannot be modified.
-function whitelistMint1(address to) external {
+/// @Note The method name can be changed to another one, but the parameters cannot be modified.
+function mintMethod1(address to) external {
     // Check permissions.
     require(_inWhitelist[msg.sender], "Not in the whitelist");
     
@@ -22,8 +22,8 @@ function whitelistMint1(address to) external {
 /// @dev Mint erc721s to the user address.
 /// @param to The user address.
 /// @param to The user address.
-/// @Note The method name can be changed to another, but the parameters cannot be modified.
-function whitelistMint2(address to, uint256 amount) external {
+/// @Note The method name can be changed to another one, but the parameters cannot be modified.
+function mintMethod2(address to, uint256 amount) external {
     // Check permissions.
     require(_inWhitelist[msg.sender], "Not in the whitelist");
 
