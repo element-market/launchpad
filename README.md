@@ -8,11 +8,11 @@
   <th>Contract Address</th>
   </tr>
 
-  <tr><td>Ethereum</td><td>
+  <tr><td>Ethereum Mainnet</td><td>
     <a href="https://etherscan.io/address/0x4cc4752155877f4333f25bb9a6f8880567ee1231">0x4cc4752155877F4333f25bB9A6F8880567ee1231</a>
   </td></tr>
 
-  <tr><td>Goerli</td><td>
+  <tr><td>Ethereum Goerli</td><td>
   <a href="https://goerli.etherscan.io/address/0x8873e78a66d906959a49527868010ee7ffc01d12">0x8873E78A66D906959a49527868010ee7ffc01d12</a>
   </td></tr>
 
