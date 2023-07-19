@@ -56,7 +56,7 @@ function mintMethod1(address to) external {
 
 /// @dev Mint erc721s to the user address.
 /// @param to The user address.
-/// @param to The user address.
+/// @param amount The quantity purchased by the user.
 /// @Note The method name can be changed to another one, but the parameters cannot be modified.
 function mintMethod2(address to, uint256 amount) external {
     // Check if the msg.sender is in the partner list.
