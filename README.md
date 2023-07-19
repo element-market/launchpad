@@ -16,6 +16,22 @@
   <a href="https://goerli.etherscan.io/address/0x8873e78a66d906959a49527868010ee7ffc01d12">0x8873E78A66D906959a49527868010ee7ffc01d12</a>
   </td></tr>
 
+  <tr><td>Bsc Mainnet</td><td>
+    <a href="https://bscscan.com/address/0xdc21de4bfd34d4b308419c27d779e331d15a7064">0xDC21dE4BFd34d4b308419c27D779E331D15A7064</a>
+  </td></tr>
+
+  <tr><td>Bsc Testnet</td><td>
+  <a href="https://testnet.bscscan.com/address/0xeb6d3020456181cfc5383688f3e94166d4d80f84">0xeB6d3020456181cfC5383688f3E94166d4D80F84</a>
+  </td></tr>
+
+  <tr><td>ZkSync Era Mainnet</td><td>
+    <a href="https://explorer.zksync.io/address/0x0F739c53D910C3eF246f670C3dbE7c8d8bdFD72b">0x0F739c53D910C3eF246f670C3dbE7c8d8bdFD72b</a>
+  </td></tr>
+
+  <tr><td>ZkSync Era Testnet</td><td>
+    <a href="https://goerli.explorer.zksync.io/address/0x29BDefA9a2f636FE54607904235FfEeCF485D45F">0x29BDefA9a2f636FE54607904235FfEeCF485D45F</a>
+  </td></tr>
+
   </table>
 
 ### Api Docs
