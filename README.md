@@ -38,6 +38,8 @@
 
 You need implement one of the following methods, allowing our launchpad contract to mint ERC721 to the user address.
 
+Note that the mint method name can be changed to another one according to your requirements, as long as the parameter list is consistent.
+
 ```solidity
 
 /// @dev Mint an erc721 to the user address.
