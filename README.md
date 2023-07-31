@@ -32,6 +32,18 @@
     <a href="https://goerli.explorer.zksync.io/address/0x29BDefA9a2f636FE54607904235FfEeCF485D45F">0x29BDefA9a2f636FE54607904235FfEeCF485D45F</a>
   </td></tr>
 
+  <tr><td>Arbitrum One</td><td>
+    <a href="https://arbiscan.io/address/0x20Baa25Bbe6b3216148Bb87ED0e1022CC632a80E">0x20Baa25Bbe6b3216148Bb87ED0e1022CC632a80E</a>
+  </td></tr>
+
+  <tr><td>Arbitrum Goerli</td><td>
+    <a href="https://goerli.arbiscan.io/address/0xac7321CBD3742B3eFC736d077B136DA769463B9D">0xac7321CBD3742B3eFC736d077B136DA769463B9D</a>
+  </td></tr>
+
+  <tr><td>Polygon Mainnet</td><td>
+    <a href="https://polygonscan.com/address/0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7">0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7</a>
+  </td></tr>
+
   </table>
 
 ### Api Docs
