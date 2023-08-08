@@ -44,6 +44,14 @@
     <a href="https://polygonscan.com/address/0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7">0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7</a>
   </td></tr>
 
+  <tr><td>Base Mainnet</td><td>
+    <a href="https://basescan.org/address/0x26Df6Fea89f1C9e4A3A2bfc2128542B7a05FbA8E">0x26Df6Fea89f1C9e4A3A2bfc2128542B7a05FbA8E</a>
+  </td></tr>
+
+  <tr><td>Base Testnet</td><td>
+    <a href="https://goerli.basescan.org/address/0x96a47C19Cc35289d316061f75D290758a6f38e8C">0x96a47C19Cc35289d316061f75D290758a6f38e8C</a>
+  </td></tr>
+  
   </table>
 
 ### Api Docs
