@@ -49,7 +49,7 @@
   </td></tr>
 
   <tr><td>Base Testnet</td><td>
-    <a href="https://goerli.basescan.org/address/0x96a47C19Cc35289d316061f75D290758a6f38e8C">0x96a47C19Cc35289d316061f75D290758a6f38e8C</a>
+    <a href="https://goerli.basescan.org/address/0xa803a0a2aE6b53bB03713B4ba60b760aA4718825">0xa803a0a2aE6b53bB03713B4ba60b760aA4718825</a>
   </td></tr>
   
   </table>
