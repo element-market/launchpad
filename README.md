@@ -41,7 +41,7 @@
   </td></tr>
 
   <tr><td>Polygon Mainnet</td><td>
-    <a href="https://polygonscan.com/address/0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf#code7">0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7</a>
+    <a href="https://polygonscan.com/address/0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7">0xf48EdDEe2273b2af0718EE781eb1E53a4bFebEf7</a>
   </td></tr>
 
   <tr><td>Base Mainnet</td><td>
