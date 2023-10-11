@@ -55,6 +55,10 @@
   <tr><td>OpBNB Mainnet</td><td>
     <a href="https://mainnet.opbnbscan.com/address/0x734026dE65E9A8dd0141992dBB60153Df5DF2b57?p=1&tab=Contract">0x734026dE65E9A8dd0141992dBB60153Df5DF2b57</a>
   </td></tr>
+
+  <tr><td>Scroll</td><td>
+    <a href="https://scrollscan.com/address/0xBF80D65d44A03539B57d36c6763C97eC224Ad4ac">0xBF80D65d44A03539B57d36c6763C97eC224Ad4ac</a>
+  </td></tr>
   
   </table>
 
