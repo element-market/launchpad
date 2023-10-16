@@ -59,6 +59,10 @@
   <tr><td>Scroll</td><td>
     <a href="https://scrollscan.com/address/0xBF80D65d44A03539B57d36c6763C97eC224Ad4ac">0xBF80D65d44A03539B57d36c6763C97eC224Ad4ac</a>
   </td></tr>
+
+  <tr><td>Manta Pacific</td><td>
+    <a href="https://pacific-explorer.manta.network/address/0x26Df6Fea89f1C9e4A3A2bfc2128542B7a05FbA8E/contracts#address-tabs">0x26Df6Fea89f1C9e4A3A2bfc2128542B7a05FbA8E</a>
+  </td></tr>
   
   </table>
 
