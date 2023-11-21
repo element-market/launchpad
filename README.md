@@ -63,6 +63,10 @@
   <tr><td>Manta Pacific</td><td>
     <a href="https://pacific-explorer.manta.network/address/0x26Df6Fea89f1C9e4A3A2bfc2128542B7a05FbA8E/contracts#address-tabs">0x26Df6Fea89f1C9e4A3A2bfc2128542B7a05FbA8E</a>
   </td></tr>
+
+  <tr><td>Optimism Mainnet</td><td>
+    <a href="https://optimistic.etherscan.io/address/0xF9c0EE3059d2227A9bf6d966Ce833411033797C0#code">0xF9c0EE3059d2227A9bf6d966Ce833411033797C0</a>
+  </td></tr>
   
   </table>
 
