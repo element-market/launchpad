@@ -71,6 +71,10 @@
   <tr><td>Optimism Mainnet</td><td>
     <a href="https://optimistic.etherscan.io/address/0xF9c0EE3059d2227A9bf6d966Ce833411033797C0#code">0xF9c0EE3059d2227A9bf6d966Ce833411033797C0</a>
   </td></tr>
+
+  <tr><td>ZKFair Mainnet</td><td>
+    <a href="https://scan.zkfair.io/address/0xd7b63951978160ACD9f38C99edb67Ed5CE2eaEa1">0xd7b63951978160ACD9f38C99edb67Ed5CE2eaEa1</a>
+  </td></tr>
   
   </table>
 
