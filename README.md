@@ -75,6 +75,10 @@
   <tr><td>ZKFair Mainnet</td><td>
     <a href="https://scan.zkfair.io/address/0xd7b63951978160ACD9f38C99edb67Ed5CE2eaEa1">0xd7b63951978160ACD9f38C99edb67Ed5CE2eaEa1</a>
   </td></tr>
+
+  <tr><td>BOB</td><td>
+    <a href="https://explorer.gobob.xyz/address/0xE7985a2E61d82519eF6f2b7D9f0BF17c46e708A1?tab=contract">0xE7985a2E61d82519eF6f2b7D9f0BF17c46e708A1</a>
+  </td></tr>
   
   </table>
 
