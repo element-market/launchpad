@@ -84,7 +84,7 @@
 
 ### Api Docs
 
-You need to implement one of the following mint methods and add the Element launchpad contract to the PartnerList[]. This will allow the Element launchpad contract to mint ERC721 NFTs to the user's address.
+You need to implement one of the following mint methods and add the Element launchpad contract to the PartnerList[]. This will allow the element launchpad contract to mint ERC721 NFTs to the user's address.
 
 Note that the mint method name can be changed to another one according to your requirements, as long as the parameter list is consistent.
 
